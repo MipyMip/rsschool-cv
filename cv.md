@@ -18,3 +18,5 @@ $return x
 ###Courses:
 +     05.2021 - 08.2021 (Programming in Python)
 +     12.2021 - 03.2022 (English online (A1))
+###Project:
+[CV](https://github.com/MipyMip/rsschool-cv/blob/gh-pages/cv.md)
