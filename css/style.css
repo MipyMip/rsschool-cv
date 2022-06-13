@@ -41,3 +41,16 @@ html {
     color: black;
     font-weight: bold;
 }
+
+.nav-link {
+    transition: .3s;
+}
+
+.section-item a { 
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.section-item a:hover {
+    text-decoration: underline;
+}
