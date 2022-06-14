@@ -24,7 +24,7 @@
 }
 
 body {
-    border: 1px solid red;
+    border: 1px solid rgb(182, 151, 151);
     min-height: 100vh;
     margin: 0;
     padding: 0;
