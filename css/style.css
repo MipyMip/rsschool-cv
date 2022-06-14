@@ -69,3 +69,13 @@ html {
         width: 100%;
     }
 }
+
+body {
+    font-family: joan-regular;
+    src: url("assets/fonts/joan-regular.ttf");
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #000000;
+}
+
